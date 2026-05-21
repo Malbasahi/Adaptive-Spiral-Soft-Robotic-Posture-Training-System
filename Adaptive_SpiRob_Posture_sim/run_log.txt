@@ -1,0 +1,28 @@
+  design_id  n_chambers  ...  max_curvature  overall_score_lower_is_better
+0         A           4  ...       0.315886                       4.215713
+1         B           4  ...       0.238440                       4.215713
+2         C           6  ...       0.391634                       4.223599
+
+[3 rows x 23 columns]
+     threshold_deg  ...  overall_score_lower_is_better
+149              7  ...                       3.507946
+155              7  ...                       3.517458
+83               6  ...                       3.537187
+77               6  ...                       3.537187
+227              8  ...                       3.537849
+221              8  ...                       3.549907
+5                5  ...                       3.562869
+148              7  ...                       3.583788
+154              7  ...                       3.593314
+226              8  ...                       3.615162
+82               6  ...                       3.623719
+76               6  ...                       3.623719
+220              8  ...                       3.627259
+4                5  ...                       3.667149
+11               5  ...                       3.675624
+
+[15 rows x 11 columns]
+Running: /opt/pyvenv/bin/python evaluate_system.py
+Running: /opt/pyvenv/bin/python parameter_sweep.py
+Running: /opt/pyvenv/bin/python plot_results.py
+Done. Check results/ and figures/.
