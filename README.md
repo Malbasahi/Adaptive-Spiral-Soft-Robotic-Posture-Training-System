@@ -113,7 +113,7 @@ spiro_posture_sim_v2/
 
 ```bash
 git clone <repository-link>
-cd spiro_posture_sim_v2
+cd Adaptive_SpiRob_Posture_sim
 ```
 
 ## Install dependencies
