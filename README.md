@@ -6,7 +6,9 @@ Computational framework and interactive digital twin for a wearable soft robotic
 # Overview
 
 This project presents an initial computational prototype for an:
-![Adaptive_SpiRob_Posture_sim/adaptive_posture_correction.jpg)]
+<p align="center">
+  <img src="adaptive_posture_correction.jpg" alt="Adaptive Spiral Soft Robotic Posture Correction System" width="750">
+</p>
 
 **Adaptive Spiral Soft Robotic Posture Training System for Spine Alignment and Rehabilitation** 
 
