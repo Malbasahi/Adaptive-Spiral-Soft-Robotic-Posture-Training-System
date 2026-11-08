@@ -1,12 +1,12 @@
 # Adaptive Spiral Soft Robotic Posture Training System
 
 Computational framework and interactive digital twin for a wearable soft robotic posture-training system using distributed spiral pneumatic actuation and IMU-based posture sensing.
-![adaptive_posture_correction.jpg)
 ---
 
 # Overview
 
 This project presents an initial computational prototype for an:
+![Adaptive_SpiRob_Posture_sim/adaptive_posture_correction.jpg)]
 
 **Adaptive Spiral Soft Robotic Posture Training System for Spine Alignment and Rehabilitation** 
 
